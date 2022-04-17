@@ -1,16 +1,13 @@
 {
   "productList": [
     {
+      "productName": "asdf",
+      "category": "Vegetables",
+      "date": "2022-04-04T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 645,
+      "comment": "adsff",
+      "id": 1
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
