@@ -1,13 +1,31 @@
 {
   "productList": [
     {
-      "productName": "Rolex",
-      "category": "Electronic",
+      "productName": "Apples",
+      "category": "Fruits",
       "date": "2022-04-04T18:30:00.000Z",
       "freshness": "Brand New",
-      "price": 132424,
-      "comment": "mint condition rolex.",
+      "price": 5,
+      "comment": "fresh red apples.",
       "id": 1
+    },
+    {
+      "productName": "Rolex",
+      "category": "Electronic",
+      "date": "2022-04-14T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 45879,
+      "comment": "mint conditon rolex imported.",
+      "id": 2
+    },
+    {
+      "productName": "Mac Air",
+      "category": "Electronic",
+      "date": "2022-04-06T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 1254,
+      "comment": "Good Condition.",
+      "id": 3
     }
   ]
 }
