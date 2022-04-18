@@ -1,12 +1,12 @@
 {
   "productList": [
     {
-      "productName": "asdf",
-      "category": "Vegetables",
+      "productName": "Rolex",
+      "category": "Electronic",
       "date": "2022-04-04T18:30:00.000Z",
       "freshness": "Brand New",
-      "price": 645,
-      "comment": "adsff",
+      "price": 132424,
+      "comment": "mint condition rolex.",
       "id": 1
     }
   ]
